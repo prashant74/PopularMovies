@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="api_key_value">980b7a0bb11f427421710bf3e8877075</string>
+
+    <!--Preferences -->
+    <string name="pref_sortType_default">popularity.desc</string>
+    <string name="pref_sortTitle">Sort Movie List</string>
+    <string name="pref_sort_key">pref_sort_by</string>
+
+
+    <!--Sorting Options -->
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_sort_by_favorite">Favorites</string>
+    <string name="action_sort_by_popularity">Most Popular</string>
+    <string name="action_sort_by_rating">Highest Rated</string>
+
+    <!-- Action Bar Actions -->
+    <string name="action_favorite">Favorite</string>
+    <string name="action_share">Share</string>
+
+    <!-- Activity titles -->
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="settingsTitle">Settings</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Released</string>
+    <string name="details">Details</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+
+    <!-- Content Provider related String Values -->
+    <string name="content_authority">com.example.prashant.popularmovies</string>
+
+    <!-- Favorites related Strings -->
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+
+
+</resources>
