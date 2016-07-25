@@ -10,5 +10,7 @@ The project retrieves the movie data from The Movie Database. The app requires y
 ```xml
 <string name="api_key_value">your_api_key</string>
 ```
-![Alt text](/home.png?raw=true "Landing Screen")
-![Alt text](/detail.png?raw=true "Detail Screen")
+<p align="center">
+  <img src="/home.png" width="350"/>
+  <img src="/detail.png" width="350"/>
+</p>
